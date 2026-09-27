@@ -1,0 +1,6 @@
+{
+  "name": "VOXDIO AI - Real-Time Voice Clone Detection",
+  "description": "AI-Powered Real-Time Voice Clone Detection platform for Smart India Hackathon 2026. Trust every voice. Prevent every impersonation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
